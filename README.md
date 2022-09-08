@@ -14,7 +14,6 @@
   <img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/zhilyaev/helmwave?label=latest">
 </p>
 
-
 🌊 Helmwave is **[helm3](https://github.com/helm/helm/)-native** tool for deploy your Helm Charts.
 HelmWave is like docker-compose for helm.
 
